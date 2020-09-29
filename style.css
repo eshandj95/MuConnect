@@ -1,0 +1,63 @@
+html{
+	background:url(grad.png);
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 0.15em;
+}
+
+body{
+	margin:0;
+}
+.logo{
+	text-align: center;
+	width: 100%;
+	margin:0;
+}
+
+
+.sec1{
+	text-align: center;
+	width: 80%;
+	padding: 1%;
+	margin: auto;
+	margin-top: 4%;
+	padding-bottom: 8%;
+	background-color: rgba(255,255,255,0.1);
+}
+
+.sec1 h1{
+	font-size: 40px;
+	color: white;
+}
+.sec1 h3{
+	color: white;
+}
+
+input{
+	outline: none;
+}
+
+
+input[type="text"]{
+	font-size: 16px;
+	background-color: white;
+	height: 45px;
+	width: 400px;
+	padding: 0 0 0 10px;
+	margin: 0 0 10px 0;
+	border:0;
+}
+input[type="submit"]{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	width:170px;
+	background-color: #038ace;
+	color: white;
+	height: 46px;
+	padding: 0;
+	margin: 0;
+	border:none;
+}
+
